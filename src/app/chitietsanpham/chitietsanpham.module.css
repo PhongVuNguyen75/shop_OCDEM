@@ -1,0 +1,18 @@
+.chitietsanpham{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.mainContent{
+    width: 1100px;
+}
+.hinhanh{
+    height: 300px;
+    border: 1px solid #3ae51c;
+
+
+}
+.mota{
+    height: 500px;
+    border: 1px solid #2574ea;
+}
